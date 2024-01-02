@@ -1,0 +1,6 @@
+@AngularApiNetCore_HostAddress = http://localhost:5196
+
+GET {{AngularApiNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
